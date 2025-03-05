@@ -1,0 +1,15 @@
+body { font-family: Arial, sans-serif; text-align: center; background-color: rgb(161, 135, 79)}
+        
+#window {
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    border-radius: 50px;
+    border-color: black;
+    background-color: rgb(122, 207, 105);
+}
+
+#value { 
+    font-size: 24px;
+    margin-top: 20px; 
+}
